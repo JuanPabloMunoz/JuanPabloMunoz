@@ -1,5 +1,7 @@
 ## Hola a Todos, soy Juan Pablo Muñoz P. 👋
 
+![JP Banner](https://github.com/user-attachments/assets/3b2a2e75-4089-4c99-b5ef-004e0ef41b82)
+
 <!--
 **JuanPabloMunoz/JuanPabloMunoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
